@@ -1,70 +1,63 @@
 # Hi there, I'm Aravindh Metha M S 👋
 
-## Full Stack Developer
+## Full Stack Developer | 7+ Years of Experience
 
-I'm a hardworking team player with **7+ years of experience** in software development, equipped with a diverse skill set and expertise in the latest cutting-edge development tools and procedures. I specialize in building scalable, efficient, and user-friendly applications.
+I specialize in building scalable, efficient, and user-friendly applications using cutting-edge technologies. Passionate about problem-solving and delivering high-quality software solutions.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-- **Languages**: Java, Python, JavaScript, TypeScript
-- **Frameworks**: Spring Boot, Node.js, Angular
-- **Databases**: Elastic Search, SQL
-- **Tools**: Git, REST APIs, SOAP Web Services, Agile Methodologies
-- **Other Skills**: Microservices, Nano Services, Full Stack Development, API Customization
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
 ### 💼 Work Experience
 
 #### **Application Development Senior Analyst**  
-**Accenture**  
-*07/2021 - 01/2024*  
-- **Client**: TELUS-AVS | **Domain**: OTT  
-- Worked on the development of **Optik TV**, an OTT service offered by TELUS, based on Accenture's AVS (Accenture Video Solutions).  
-- Developed and managed micro and nano service applications using **Spring Boot**, **Node.js**, and **Elastic Search**.  
-- Customized existing APIs and REST endpoints, adding new functionalities to AVS services.  
-- Participated in all phases of **Agile-based development**.
+**Accenture** | *07/2021 - 01/2024*  
+- Developed **Optik TV** (OTT service) using **Spring Boot**, **Node.js**, and **Elastic Search**.  
+- Customized APIs and REST endpoints for **Accenture Video Solutions (AVS)**.  
+- Worked in an **Agile** environment.
 
 #### **Java Developer**  
-**Solifi (formerly White Clarke Group)**  
-*06/2019 - 06/2021*  
-- **Product**: CALMS | **Clients**: VM, BMW, OVF | **Domain**: Automotive/Retail Finance  
-- Worked on the development of the product **CALMS**.  
-- Developed and managed full-stack enterprise applications using **Java Spring Boot** and **Angular**.  
-- Designed **SOAP WSDLs** and endpoints for third-party banks using our codebase.
+**Solifi (formerly White Clarke Group)** | *06/2019 - 06/2021*  
+- Built full-stack applications for **CALMS** using **Java Spring Boot** and **Angular**.  
+- Designed **SOAP WSDLs** for third-party banking integrations.
 
 #### **Senior Systems Engineer**  
-**Infosys**  
-*01/2017 - 05/2019*  
-- **Client**: Infosys-ETA | **Domain**: E-Commerce  
-- Developed full-stack enterprise applications using **Java** and **Angular**.  
-- Developed a console-based application in **Python**.  
-- Mentored and enabled resources in full-stack enterprise application development.  
-- Managed project mentoring and people management.
+**Infosys** | *01/2017 - 05/2019*  
+- Developed full-stack enterprise apps in **Java** and **Angular**.  
+- Created a console-based app in **Python**.  
+- Mentored teams in full-stack development.
 
 ---
 
 ### 🎓 Education
 
-- **Bachelor of Engineering (B.E.) in Mechanical Engineering**  
-  *R.M.K. College of Engineering and Technology*  
-  *04/2012 - 04/2016*
+- **B.E. in Mechanical Engineering**  
+  *R.M.K. College of Engineering and Technology* | *2012 - 2016*
 
 ---
 
 ### 📜 Certifications
 
 - **HackerRank - Problem Solving (Basic)**  
-  Covered basic topics of Data Structures (Arrays, Strings) and Algorithms (Sorting, Searching).
+  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 ---
 
 ### 🌍 Languages
 
-- **English** (Professional Proficiency)  
-- **Tamil** (Native Proficiency)
+- **English** (Professional)  
+- **Tamil** (Native)
 
 ---
 
@@ -77,10 +70,10 @@ I'm a hardworking team player with **7+ years of experience** in software develo
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](#)  
-- [Email](#)  
-- [Portfolio](#)  
+[![[LinkedIn](https://www.linkedin.com/in/aravindhmetha/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![aravindhmethams@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![[Portfolio](https://github.com/aravindhmetha)](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 😄
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations. 😄

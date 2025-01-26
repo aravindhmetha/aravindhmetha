@@ -9,7 +9,7 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=coffee&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
@@ -19,10 +19,10 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 
 #### Databases & Tools
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23FF6F61.svg?style=flat&logo=rest&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-%23008000.svg?style=flat&logo=soap&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-%238A4182.svg?style=flat&logo=soap&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-%23009688.svg?style=flat&logo=agile&logoColor=white)
 
 #### Cloud & DevOps

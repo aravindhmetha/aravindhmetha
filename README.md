@@ -8,14 +8,27 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F61?style=for-the-badge&logo=rest&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)
+#### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+#### Databases & Tools
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%23FF6F61.svg?style=flat&logo=rest&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-%23008000.svg?style=flat&logo=soap&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23009688.svg?style=flat&logo=agile&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -50,29 +63,22 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 📜 Certifications
 
 - **HackerRank - Problem Solving (Basic)**  
-  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+  ![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)
 
 ---
 
 ### 🌍 Languages
 
-- **English** (Professional)  
-- **Tamil** (Native)
-
----
-
-### 🎨 Interests
-
-- Image Editing  
-- Photography
+- **English** (Professional Proficiency)  
+- **Tamil** (Native Proficiency)
 
 ---
 
 ### 📫 Let's Connect!
 
-[![[LinkedIn](https://www.linkedin.com/in/aravindhmetha/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![aravindhmethams@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![[Portfolio](https://github.com/aravindhmetha)](https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindhmetha/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:aravindhmethams@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=flat&logo=google-chrome&logoColor=white)](https://aravindhmetha.com)
 
 ---
 

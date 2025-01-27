@@ -9,26 +9,13 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 🛠️ Tech Stack
 
 #### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=coffee&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 
 #### Databases & Tools
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23FF6F61.svg?style=flat&logo=rest&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-%238A4182.svg?style=flat&logo=soap&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%23009688.svg?style=flat&logo=agile&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="REST" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/soap/soap-original.svg" alt="SOAP" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" alt="Agile" width="40" height="40"/>
 
 #### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
 
 ---
 
@@ -63,7 +50,7 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 📜 Certifications
 
 - **HackerRank - Problem Solving (Basic)**  
-  ![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat&logo=hackerrank&logoColor=white)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
 
 ---
 
@@ -76,9 +63,9 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindhmetha/)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:aravindhmethams@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6F61.svg?style=flat&logo=google-chrome&logoColor=white)](https://aravindhmetha.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>](https://www.linkedin.com/in/aravindhmetha/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>](mailto:aravindhmethams@gmail.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>](https://aravindhmetha.com)
 
 ---
 

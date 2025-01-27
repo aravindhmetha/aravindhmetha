@@ -61,7 +61,7 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 📜 Certifications
 
 - **HackerRank - Problem Solving (Basic)**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+  ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
 ---
 

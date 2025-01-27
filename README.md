@@ -61,7 +61,7 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 📜 Certifications
 
 - **HackerRank - Problem Solving (Basic)**  
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40" />](https://www.hackerrank.com)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
 
 ---
 
@@ -75,7 +75,7 @@ I specialize in building scalable, efficient, and user-friendly applications usi
 ### 📫 Let's Connect!
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/aravindhmetha/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40" />](mailto:aravindhmethams@gmail.com)
+[<img src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="Gmail" width="40" height="40" />](mailto:aravindhmethams@gmail.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40" />](https://aravindhmetha.com)
 
 ---
